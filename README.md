@@ -9,8 +9,8 @@ from the <u>Receive</u> tab:
 <i>zs14zwr990548vdh607scctpn4z53uyxjmxyakcxf7dslc6c9pctnc0kkqw7v4063gklvpzzwrgrx9</i>.<br>
 Go to the <u>Transactions</u> tab and paste the address into the search bar. This will filter the transactions to
 only show entries related to this address. You can further filter it down by settting the filter from 'All' to 
-'Send to'. This will ensure that you only see the transactions posted by me. On each transaction you can right 
-click and select 'Show Memo' to view the message.<br>
+'To yourself'. This will ensure that you only see the transactions posted by me. On each transaction with the
+type: <i>Internal with Memo</i> you can right click and select 'Show Memo' to view the message.<br>
 If you'd like, you can send me a message by making a small payment, like 0.1mArrr to this address. Include your
 message in the memo field of the transaction.<br> 
 <b>Note:</b> Even though the Pirate blockchain is private, everybody with this viewing key will be able to view 
