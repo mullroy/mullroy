@@ -22,8 +22,8 @@ on 21 September 2022. In the memo it provides a new address to send your queries
 put in the memo field. This new address is not public and only viewable by the development team. Therefore, nobody
 else will be able to see your transaction and question in the memo.<br>
 <b>Very important</b>: As per the instruction, please include <i>your</i> address in the memo
-so that we can send a reply back to you. We don't see from where the transaction was send. As such, there's no
-"auto reply" address that we can use.
+so that we can send a reply back to you. We can't see from where the transaction was send. As such, there's no
+"auto reply" address to use.
 <!---
 mullroy/mullroy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
