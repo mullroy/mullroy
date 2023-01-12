@@ -18,12 +18,15 @@ and read all the memos of all the transactions associated with this address.
 - <img src="pirate.png" width="18" height=18 title="Pirate logo"> <b>Preorders</b><br>
 When you filter on <i><b>zs14zwr990548vdh607scctpn4z53uyxjmxyakcxf7dslc6c9pctnc0kkqw7v4063gklvpzzwrgrx9</b></i> plus
 set the filter to 'To yourself', you'll see a couple of transactions. Look for the single transaction
-on 21 September 2022. In the memo it provides <b>a new address</b> to send your queries to, plus instructions on what to
+on 21 September 2022. In the memo <b>an address</b> is provided to send your queries to, plus instructions on what to
 put in the memo field. This new address is not public and only viewable by the development team. Therefore, nobody
 else will be able to see your transaction and questions in the memo.<br>
-<b>Very important</b>: As per the instruction, please include <i>your</i> address in the memo
-so that we can send a reply back to you. We can't see from where the transaction was send. As such, there's no
-"auto reply" address to use.
+Very important:<br>
+1) Do not send your queries to 'zs14zwr990548vdh607scctpn4z53uyxjmxyakcxf7dslc6c9pctnc0kkqw7v4063gklvpzzwrgrx9'. Get the
+new address from the memo field of the transaction dated 21 Sept. 2022.
+2)As per the instruction in the memo, please include <i>your</i> address in the memo of the transaction you 
+send to us so that we can send a reply back to you. We can't see from where the transaction was send (paid). As such,
+there's no "auto reply" address to use.
 <!---
 mullroy/mullroy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
