@@ -25,6 +25,7 @@ new address from the memo field of the transaction dated 21 Sept. 2022.<br>
 2 As per the instruction in the memo, please include <i>your</i> address in the memo of the transaction you 
 send to us so that we can send a reply back to you. We can't see from where the transaction was send (paid). As such,
 there's no "auto reply" address to use.
+3 If the process seems too combersome, drop me a message at barrrter.com under the hardware wallet advertisement.
 <!---
 mullroy/mullroy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
