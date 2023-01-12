@@ -2,7 +2,7 @@
 - 👀 I’m interested in all thing pirate. Go Arrr
 - 🌱 I’m currently learning crypto 
 - 💞️ I’m looking to collaborate on Pirate Coin
-- 📫 How to reach me: Send a message to Mullroy on Qortal
+- 📫 How to reach me: Send a message to Mullroy on the PirateChain Discord or leave a message at www.barrrter.com on the h/w wallet advertisement
 - <img src="pirate.png" width="18" height=18 title="Pirate logo"> Viewing key to receive product announcements:
 <i><b>zxviews1qvzka298qyqqpqqwag67qsa8j7vp0p0vl6up9q7rdeu5gyfrtprf2r8vc96qwy7dt0num58uhk5hs6ahatlt5rhzhyj2vxsugmf5l5lhzd7gvfh29585kplsll5tp24svqfl02p5mmf8c9hx6ug0ddy9wswdk73aw89ej9vd2hh4zznh7au602f5x5n980805uefyhgvlvq3l63fvt9c40kgfymvzc589q4ee3tuwyesy4qtld4m03awtzgu033c4uzcpxg3cxd0jks8gk8l7</b></i><br>To use the key, Launch the Treasure Chest wallet. Select <u>File</u>-><u>Import Viewing Key</u> and paste this key into the dialog. Wait for T.C. to rescan the blockchain to gather all data related to this address. The address for this viewing key can be copied
 from the <u>Receive</u> tab:
