@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mullroy
 - 👀 I’m interested in all thing pirate. Go Arrr
-- 🌱 I’m currently learning crypto 
-- 💞️ I’m looking to collaborate on Pirate Coin
+- 💞️ I’m collaborating on Pirate chain & other privacy projects.
 - 📫 How to reach me: Send a message to Mullroy on the PirateChain Discord or e-mail me: mullroy at protonmail dot com
 - <img src="pirate.png" width="18" height=18 title="Pirate logo"> Viewing key to receive product announcements:
 <i><b>zxviews1qvzka298qyqqpqqwag67qsa8j7vp0p0vl6up9q7rdeu5gyfrtprf2r8vc96qwy7dt0num58uhk5hs6ahatlt5rhzhyj2vxsugmf5l5lhzd7gvfh29585kplsll5tp24svqfl02p5mmf8c9hx6ug0ddy9wswdk73aw89ej9vd2hh4zznh7au602f5x5n980805uefyhgvlvq3l63fvt9c40kgfymvzc589q4ee3tuwyesy4qtld4m03awtzgu033c4uzcpxg3cxd0jks8gk8l7</b></i><br>To use the key, Launch the Treasure Chest wallet. Select <u>File</u>-><u>Import Viewing Key</u> and paste this key into the dialog. Wait for T.C. to rescan the blockchain to gather all data related to this address. The address for this viewing key can be copied
@@ -29,7 +28,7 @@ new address from the memo field of the transaction dated 21 Sept. 2022.<br>
 2 As per the instruction in the memo, please include <i>your</i> address in the memo of the transaction you 
 send to us so that we can send a reply back to you. We can't see from where the transaction was send (paid). As such,
 there's no "auto reply" address to use.<br>
-3 If the process seems too cumbersome, drop me a message at barrrter.com under the hardware wallet advertisement.
+3 If the process seems too cumbersome, send an e-mail to: mullroy at protonmail dot com.
 <!---
 mullroy/mullroy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
